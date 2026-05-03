@@ -1,4 +1,4 @@
-# Case Study 02: Greenory-crm and sustainability strategy
+# Case Study Greenory-crm and sustainability strategy
 
 ## 🇺🇸 English
 Greenory is a B2C brand focused on plastic-free lifestyle products. This project analyzes the customer service architecture and the integration of CRM systems to foster a sustainable community.
